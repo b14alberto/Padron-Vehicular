@@ -1,0 +1,15 @@
+Vehiculo registrado en la lista
+______________________________________
+Modelo: 1
+Marca: 1
+Año: 1951
+Numero de pasajeros: 1
+Numero de puertas: 1
+Color: 1
+Placa: 1
+Propietario: 1
+Tenencia: 1
+Infracciones: 1
+Transmision: 1
+______________________________________
+__________________________________________
